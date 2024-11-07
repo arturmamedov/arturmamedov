@@ -4,6 +4,8 @@
 
 I'm a passionate full-stack developer and instructor, constantly working on exciting projects and sharing my knowledge with the developer community. From building web applications to creating educational content, I'm always up for new challenges in the world of coding.
 
+[![wakatime](https://wakatime.com/badge/user/e93c2cb4-72c4-4f0e-9e3b-2840d049cd14.svg)](https://wakatime.com/@e93c2cb4-72c4-4f0e-9e3b-2840d049cd14)
+
 ---
 
 ### 🔭 Current Projects
